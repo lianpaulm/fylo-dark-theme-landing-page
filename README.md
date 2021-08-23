@@ -4,9 +4,9 @@
 
 ## Welcome! 👋
 
-# Frontend Mentor - Testimonials grid section solution
+# Frontend Mentor - Fylo dark theme landing page solution
 
-This is my solution to the [Testimonials grid section challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/testimonials-grid-section-Nnw6J7Un7).
+This is my solution to the [Fylo dark theme landing page challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/testimonials-grid-section-Nnw6J7Un7).
 Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 
 ## Overview
