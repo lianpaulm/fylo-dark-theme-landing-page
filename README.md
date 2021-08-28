@@ -24,8 +24,8 @@ Frontend Mentor challenges help you improve your coding skills by building reali
 - CSS Grid
 - Mobile-first workflow
 
-## Author
+## My profile at Frontend Mentor
 
 <!-- - Website - [Add your name here](https://www.your-site.com) -->
 
-- Frontend Mentor - [@lianpaulm](https://www.frontendmentor.io/profile/lianpaulm)
+[@lianpaulm](https://www.frontendmentor.io/profile/lianpaulm)
