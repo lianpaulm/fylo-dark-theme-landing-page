@@ -4,23 +4,11 @@
 
 ## Welcome! 👋
 
-# Frontend Mentor - Testimonials grid section solution
+# Frontend Mentor - Fylo dark theme landing page solution
 
-This is my solution to the [Testimonials grid section challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/testimonials-grid-section-Nnw6J7Un7).
+This is my solution to the [Fylo dark theme landing page challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/testimonials-grid-section-Nnw6J7Un7).
+
 Frontend Mentor challenges help you improve your coding skills by building realistic projects.
-
-## Overview
-
-### The challenge
-
-Your challenge is to build out this landing page and get it looking as close to the design as possible.
-
-You can use any tools you like to help you complete the challenge. So if you've got something you'd like to practice, feel free to give it a go.
-
-Your users should be able to:
-
-- View the optimal layout for the site depending on their device's screen size
-- See hover states for all interactive elements on the page
 
 <!-- ### Links
 
